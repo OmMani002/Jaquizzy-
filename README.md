@@ -1,1 +1,1 @@
-# Jaquizzy-
+# Jaquizzy is fun educational Quiz App! Here I put the Google Drive Folder Link for Explaining the code and App Gameplay - https://drive.google.com/drive/folders/1tzdmgPXKYZeYP_QvLX7Vwz70YuBJcA7h?usp=sharing
